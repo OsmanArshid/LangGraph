@@ -1,6 +1,6 @@
 ## Introduction
 
-# All of this is coming from [LangGraph's Official Repository - All Rights to LangChaion Academy](https://github.com/langchain-ai/langchain-academy)
+# All of this is coming from [LangGraph's Official Repository - All Rights to LangChain Academy](https://github.com/langchain-ai/langchain-academy)
 
 Welcome to LangChain Academy! 
 This is a growing set of modules focused on foundational concepts within the LangChain ecosystem. 
