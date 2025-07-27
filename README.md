@@ -1,5 +1,7 @@
 ## Introduction
 
+# All of this is coming from [LangGraph's Official Repository - All Rights to LangChaion Academy](https://github.com/langchain-ai/langchain-academy)
+
 Welcome to LangChain Academy! 
 This is a growing set of modules focused on foundational concepts within the LangChain ecosystem. 
 Module 0 is basic setup and Modules 1 - 4 focus on LangGraph, progressively adding more advanced themes. 
